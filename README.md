@@ -7,3 +7,4 @@ CSCI 5922
 [VizWiz](https://vizwiz.org/)<br />
 [Keras](https://keras.io/)<br />
 [Presentation](https://vimeo.com/777861420)
+[Overleaf Tex](https://www.overleaf.com/project/6362e8e2e3bd5d048b19fbf9)
